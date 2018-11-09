@@ -57,4 +57,8 @@ public class BlankRoom {
 
 
     }
+
+    public float getWood() {
+        return this.wood;
+    }
 }

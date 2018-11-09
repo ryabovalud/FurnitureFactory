@@ -30,7 +30,7 @@ public class Main {
                 new Dowel()));
 
         //В заготовочном цехе вот столько древесины
-        blankRoom.setWood((float) 15);
+        blankRoom.setWood((float) 0);
 
         //Создаём покупателя
         Customer c = new Customer(1000000);
